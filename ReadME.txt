@@ -10,3 +10,5 @@
 4.依次点击 Rescan、Stage Change、Commit（点击Commit之前需要在编辑框里面输入一些备注）
 
 5.点击Push
+6.ok
+
